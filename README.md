@@ -20,12 +20,6 @@ Link to the version control repository for this project.
 The implementation of the chosen classification algorithm (Bayes Classifier or KNN) for MNIST digit recognition.
 *(To be placed in the `notebooks/` or `src/` directory)*
 
-## Setup and Installation
-*(Instructions for setting up the environment and running the code will go here)*
-
-## Usage
-*(Instructions on how to run the code and use the models will go here)*
-
 ## Data
 The MNIST dataset will be used for training and testing.
-*(Raw data or download scripts will be placed in the `data/` directory)*
+
